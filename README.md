@@ -1,5 +1,5 @@
 
-![Banner de Condor Coders](https://github.com/belleb23/belleb23/assets/115180927/0d50ee07-8ba6-4c2d-a726-560508715e54)
+![Banner de Condor Coders](https://github.com/belleb23/belleb23/assets/115180927/7431a06b-9168-45a6-b96d-5cefaf45a613)
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=FFFFFF&vCenter=true&random=false&width=800&height=22&lines=I'm+a+Software+Engineer+%F0%9F%92%BB;I'm+a+from+Brazil+%f0%9f%a4%8d;I+love+coding+%F0%9F%92%BB)](https://git.io/typing-svg)
 
