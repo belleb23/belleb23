@@ -46,7 +46,7 @@ Estou sempre aberto a contribuir para projetos de código aberto. Confira minhas
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Cowboy Hat Face" width="30" height="30" /> Vamos conectar!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:bellebernieri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isabelle-bernieri-dev/)
-[![Portfolio](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.isabellebernieri.com.br/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF00F6&color:FFF)](https://www.isabellebernieri.com.br/)
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia. 😊
 
