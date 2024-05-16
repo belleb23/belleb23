@@ -1,3 +1,4 @@
+![Banner de Condor Coders](banner-isabelle-bernieri.png)
 
 # <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Cowboy Hat Face" width="40" height="40" /> Bem-vindo ao meu perfil do GitHub!
 
@@ -32,7 +33,7 @@ Olá! Eu sou Isabelle Bernieri, uma desenvolvedora apaixonada por tecnologia. Es
 
 Confira alguns dos meus projetos:
 
-- [Nome do Projeto](link): Breve descrição do projeto.
+- [Adote um Vira Lata](link): Breve descrição do projeto.
 - [Nome do Projeto](link): Breve descrição do projeto.
   
 
