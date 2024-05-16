@@ -1,6 +1,6 @@
 ![Banner de Condor Coders](banner-isabelle-bernieri.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&vCenter=true&random=false&width=800&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;I'm+a+from+Brazil+%F0%9F%92%BB;I+love+coding)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=FFFFFF&vCenter=true&random=false&width=800&height=22&lines=I'm+a+Software+Engineer+%F0%9F%92%BB;I'm+a+from+Brazil+%f0%9f%a4%8d;I+love+coding+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 # <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Cowboy Hat Face" width="40" height="40" /> Welcome to my GitHub profile!
