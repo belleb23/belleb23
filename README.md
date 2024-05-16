@@ -33,8 +33,7 @@ Olá! Eu sou Isabelle Bernieri, uma desenvolvedora apaixonada por tecnologia. Es
 
 Confira alguns dos meus projetos:
 
-- [Adote um Vira Lata](link): Breve descrição do projeto.
-- [Nome do Projeto](link): Breve descrição do projeto.
+- [Adote um Vira Lata](link): Plataforma de adoção simplificada, integrando APIs e tecnologias avançadas em React.js, Node.js e MongoDB para facilitar o processo de adoção de animais e permitir doações eficientes para ONG Adote um Vira Lata
   
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Vamos conectar!
