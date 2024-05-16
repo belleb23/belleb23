@@ -8,8 +8,8 @@ Olá! Eu sou Isabelle Bernieri, uma desenvolvedora apaixonada por tecnologia. Es
 - 👩‍💻 Desenvolvedora Full Stack.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UFPR.
 - 🌱 Atualmente, estou matriculada em uma pós-graduação em Desenvolvimento Mobile pela PUCPR.
-- 💬 Me pergunte sobre: [Áreas de Interesse].
-- 📫 Como me contatar: [Seu Endereço de E-mail].
+- 💬 Me pergunte sobre: Desenvolvimento de Software.
+- 📫 Como me contatar: bellebernieri@gmail.com.
 
 ## Linguagens e Ferramentas
 
@@ -24,17 +24,17 @@ Aqui estão algumas das linguagens e ferramentas que trabalho:
 
 ### Linguagens e Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,dotnet,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet" />
 </a>
 
 ### Frameworks e Bibliotecas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mongodb,mysql,postgres,materialui,jest" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,firebase,bootstrap" />
 </a>
 
 ### Ferramentas e Plataformas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,linux,npm,yarn,postman" />
+  <img src="https://skillicons.dev/icons?i=github,docker,aws,vercel,figma,npm,postman,androidstudio,notion" />
 </a>
 
 ## Projetos
