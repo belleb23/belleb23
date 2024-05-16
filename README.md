@@ -22,6 +22,21 @@ Aqui estão algumas das linguagens e ferramentas que trabalho:
 - Ferramentas de Design e Prototipagem: Notion, Figma
 - Metodologias Ágeis: Scrum, Kanban
 
+### Linguagens e Ferramentas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,dotnet,docker" />
+</a>
+
+### Frameworks e Bibliotecas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mongodb,mysql,postgres,materialui,jest" />
+</a>
+
+### Ferramentas e Plataformas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,linux,npm,yarn,postman" />
+</a>
+
 ## Projetos
 
 Confira alguns dos meus projetos:
