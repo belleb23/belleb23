@@ -1,9 +1,6 @@
 
 ![Banner de Condor Coders](https://github.com/belleb23/belleb23/assets/115180927/7431a06b-9168-45a6-b96d-5cefaf45a613)
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=FFFFFF&vCenter=true&random=false&width=800&height=22&lines=I'm+a+Software+Engineer+%F0%9F%92%BB;I'm+a+from+Brazil+%f0%9f%a4%8d;I+love+coding+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-
 # <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Cowboy Hat Face" width="40" height="40" /> Welcome to my GitHub profile!
 
 Hello World! I'm Isabelle Bernieri, a web developer passionate about technology. This is my space where I share personal projects, contributions to the open-source community, and my ongoing learning in the programming world. With five years of experience in software development, I'm always seeking new challenges and opportunities to enhance my skills and create innovative solutions.
