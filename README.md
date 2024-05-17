@@ -5,7 +5,7 @@
 
 Hello World! I'm Isabelle Bernieri, a web developer passionate about technology. This is my space where I share personal projects, contributions to the open-source community, and my ongoing learning in the programming world. With five years of experience in software development, I'm always seeking new challenges and opportunities to enhance my skills and create innovative solutions.
 
-<img width="300" align="right" alt="Github"
+<img align="right" style="max-width: 100%; height: auto;" width="300"
 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" 
 /> 
 
