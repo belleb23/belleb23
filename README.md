@@ -1,17 +1,9 @@
 
-![Banner de Condor Coders](https://github.com/belleb23/belleb23/assets/115180927/7431a06b-9168-45a6-b96d-5cefaf45a613)
+![Banner de Belle Bernieri](https://github.com/belleb23/belleb23/assets/115180927/7431a06b-9168-45a6-b96d-5cefaf45a613)
 
 # <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Cowboy Hat Face" width="40" height="40" /> Welcome to my GitHub profile!
 
 Hello World! I'm Isabelle Bernieri, a web developer passionate about technology. This is my space where I share personal projects, contributions to the open-source community, and my ongoing learning in the programming world. With five years of experience in software development, I'm always seeking new challenges and opportunities to enhance my skills and create innovative solutions.
-
-<style>
-  @media (max-width: 600px) {
-    .responsive-image {
-      display: none;
-    }
-  }
-</style>
 
 <div style="display: flex; flex-direction: column-reverse; align-items: center; text-align: center;">
   <img class="responsive-image" align="right" style="max-width: 100%; height: auto; margin-top: 20px;" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" />
@@ -26,19 +18,6 @@ Hello World! I'm Isabelle Bernieri, a web developer passionate about technology.
     </ul>
   </div>
 </div>
-
-<img align="right" style="max-width: 100%; height: auto;" width="300"
-src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" 
-/> 
-
-## About me
-
-- 👩‍💻 Full Stack Developer.
-- 🎓 Graduated in Systems Analysis and Development from UFPR.
-- 🌱 Currently enrolled in a postgraduate course in Mobile Development at PUCPR.
-- 🐾 Passionate about pets.
-- 💬 Ask me about: Software Development.
-
 
 ## Technologies I use in my day-to-day
 
