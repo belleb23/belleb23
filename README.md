@@ -5,16 +5,24 @@
 
 Hello World! I'm Isabelle Bernieri, a web developer passionate about technology. This is my space where I share personal projects, contributions to the open-source community, and my ongoing learning in the programming world. With five years of experience in software development, I'm always seeking new challenges and opportunities to enhance my skills and create innovative solutions.
 
+<style>
+  @media (max-width: 600px) {
+    .responsive-image {
+      display: none;
+    }
+  }
+</style>
+
 <div style="display: flex; flex-direction: column-reverse; align-items: center; text-align: center;">
-  <img align="right" style="max-width: 100%; height: auto; margin-top: 20px;" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" />
+  <img class="responsive-image" align="right" style="max-width: 100%; height: auto; margin-top: 20px;" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" />
   <div>
     <h2>About me</h2>
     <ul style="list-style: none; padding: 0;">
       <li>👩‍💻 Full Stack Developer.</li>
       <li>🎓 Graduated in Systems Analysis and Development from UFPR.</li>
       <li>🌱 Currently enrolled in a postgraduate course in Mobile Development at PUCPR.</li>
-      <li> 🐾 Passionate about pets.</li>
-      <li> 💬 Ask me about: Software Development.</li>
+      <li>🐾 Passionate about pets.</li>
+      <li>💬 Ask me about: Software Development.</li>
     </ul>
   </div>
 </div>
