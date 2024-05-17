@@ -9,7 +9,7 @@
 Hello World! I'm Isabelle Bernieri, a web developer passionate about technology. This is my space where I share personal projects, contributions to the open-source community, and my ongoing learning in the programming world. With five years of experience in software development, I'm always seeking new challenges and opportunities to enhance my skills and create innovative solutions.
 
 <img width="300" align="right" alt="Github"
-src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU4OTk1MzIsIm5iZiI6MTcxNTg5OTIzMiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE2VDIyNDAzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5ZTAxZWZkNjA3YTYzYTY5OTJhYjI0YjU1YWU2M2ZhMjQwYzNmZDEzZmRjNWY3OTZkOGMxNDFmN2JjYjY4OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KgKV-XohdSmXcGyu2emWOo7fZ5BnyhwaiGBltK7FSM0" 
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" 
 /> 
 
 ## About me
@@ -25,7 +25,7 @@ src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d8
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet,kotlin" />
 </a>
 
 ### Frameworks and Libraries
