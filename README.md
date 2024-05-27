@@ -46,7 +46,7 @@ Check out some of my projects:
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:bellebernieri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isabelle-bernieri-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF00F6&color:FFF)](https://www.isabellebernieri.com.br/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF00F6&color:FFF)](https://www.bellebernieri.com/)
 
 Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate or just chat about technology. 😊
 
