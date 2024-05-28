@@ -23,7 +23,7 @@ Hello World! I'm Isabelle Bernieri, a web developer passionate about technology.
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet,kotlin,php,python" />
 </a>
 
 ### Frameworks and Libraries
