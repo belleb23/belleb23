@@ -40,7 +40,7 @@ Hello World! I'm Isabelle Bernieri, a web developer passionate about technology.
 
 Check out some of my projects:
 
-- [Adote um Vira Lata](link): Simplified adoption platform, integrating APIs and advanced technologies in React.js, Node.js, and MongoDB to streamline the animal adoption process and enable efficient donations to the non-governmental organization called 'Adote um Vira Lata'
+- [Adote um Vira Lata](https://github.com/belleb23/adote-mern): Simplified adoption platform, integrating APIs and advanced technologies in React.js, Node.js, and MongoDB to streamline the animal adoption process and enable efficient donations to the non-governmental organization called 'Adote um Vira Lata'
   
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
