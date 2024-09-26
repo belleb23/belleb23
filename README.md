@@ -1,5 +1,5 @@
 
-![Banner de Belle Bernieri](https://github.com/belleb23/belleb23/assets/115180927/7431a06b-9168-45a6-b96d-5cefaf45a613)
+![Banner de Belle Bernieri](https://github.com/user-attachments/assets/a430d56a-00c0-41a8-9a90-434078f21941)
 
 # <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Cowboy Hat Face" width="40" height="40" /> Welcome to my GitHub profile!
 
