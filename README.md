@@ -23,12 +23,12 @@ Hello World! I'm Isabelle Bernieri, a web developer passionate about technology.
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,cs" />
 </a>
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,firebase,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,mongodb,postgres,firebase,bootstrap" />
 </a>
 
 ### Tools and Platforms
